@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 AB 
+=======
+CD 
+>>>>>>> conflictA
