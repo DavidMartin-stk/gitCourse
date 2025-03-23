@@ -1,1 +1,2 @@
-test isa 3 
+
+test isa 3 algo extra 
