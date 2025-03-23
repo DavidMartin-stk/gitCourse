@@ -1,1 +1,2 @@
-algo extra 
+
+test isa 3 algo extra 
